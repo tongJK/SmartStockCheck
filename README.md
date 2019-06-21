@@ -12,7 +12,7 @@ Smart Automatic Shelves Stock Check
 
 
 ## Work Example
-- version_1.x
+### version_1.x
  - Input
  ![v_one_input](./ImgTools/v_one_input.jpg)
  
