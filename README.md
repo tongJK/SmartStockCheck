@@ -4,8 +4,8 @@ Smart Automatic Shelves Stock Check
 - Display and analyze amount of product shelves stock.
 - Notice when product is empty.
 
-- For Public Ver.
- It's a sample result of this project for show what this project can do and interview how this project work 
+# For Public Ver.
+It's a sample result of this project for show what this project can do and interview how this project work 
  and for interview my abilities, skill and experience.
 
 
