@@ -9,7 +9,7 @@ It's a sample result of this project for show what this project can do and inter
  and for interview my abilities, skill and experience.
 
 
- - If you interested in this project, You can contact me.
+If you interested in this project, You can contact me.
 
 ## Environment
 - Webcam Camera, IP Camera or CCTV
